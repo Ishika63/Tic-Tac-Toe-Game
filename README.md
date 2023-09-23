@@ -2,8 +2,16 @@
 
 This project is a Python-based implementation of the classic Tic-Tac-Toe game. It was created to provide an entertaining and interactive experience for players of all ages. Whether you want to challenge a friend, test your skills against a computer opponent, or simply watch two AI players battle it out, this game has something for everyone.
 
+## Table of Contents
 
-### Key Features
+- [Key Features](#key-features)
+- [How to Run](#how-to-run)
+- [Screenshots](#screenshots)
+- [References](#references)
+
+
+
+## Key Features
 
 - **Multiple Game Modes**: Choose from three exciting game modes:
   - **Player vs. Player**: Play against a friend in a classic head-to-head match.
@@ -17,7 +25,7 @@ This project is a Python-based implementation of the classic Tic-Tac-Toe game. I
 - **Smart Computer Opponent**: In "Player vs. Computer" and "Computer vs. Computer" modes, the computer opponent employs basic AI to make intelligent moves, providing a challenging and enjoyable experience.
 
 
-### To run it on your PC:
+## How to Run
 
 * Make sure you have Python 3.7.x or Python 3.8.x installed, if not, click [here](https://www.python.org/downloads/) to install!
 * Clone this into your Desktop: `git clone "https://github.com/tusharnankani/GamesBuiltUsingPython"`
@@ -27,9 +35,21 @@ This project is a Python-based implementation of the classic Tic-Tac-Toe game. I
 * And now have fun! ^_^
 
 
-## *References*
+## Screenshot
 
-#### *Logic*
+![1](https://github.com/Ishika63/Tic-Tac-Toe-Game/assets/80192358/9f1ba03f-2fa9-4160-a5a2-8e57537f2f4b)
+
+![2](https://github.com/Ishika63/Tic-Tac-Toe-Game/assets/80192358/2c5f2488-120a-42eb-a0f9-eeb04d5408cb)
+
+![3](https://github.com/Ishika63/Tic-Tac-Toe-Game/assets/80192358/e8c2e550-47f6-4f70-831c-d3968e5586a5)
+
+![4](https://github.com/Ishika63/Tic-Tac-Toe-Game/assets/80192358/9df23a96-7810-4315-aa16-892f356c8e2a)
+
+
+
+## References
+
+#### Logic
 
 - Optimal Tic Tac Toe Moves
 
@@ -40,3 +60,6 @@ This project is a Python-based implementation of the classic Tic-Tac-Toe game. I
   - [Tic Tac Toe AI with Minimax Algorithm](https://www.youtube.com/watch?v=trKjYdBASyQ&feature=youtu.be)
   - [Minimax Algorithm in Game Theory](https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/)
   - [Algorithms Explained – minimax and alpha-beta pruning](https://www.youtube.com/watch?v=l-hh51ncgDI)
+
+
+
