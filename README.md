@@ -16,7 +16,7 @@ This project is a Python-based implementation of the classic Tic-Tac-Toe game. I
 - **Multiple Game Modes**: Choose from three exciting game modes:
   - **Player vs. Player**: Play against a friend in a classic head-to-head match.
   - **Player vs. Computer**: Challenge the computer and test your strategy.
-  - **Computer vs. Computer**: Sit back and watch two AI players compete with each other.
+  - **Computer vs. Computer**: Watch two AI players compete with each other.
 
 - **User-Friendly Interface**: The game features a straightforward command-line interface with clear instructions, making it easy for players of all skill levels to enjoy.
 
@@ -28,7 +28,7 @@ This project is a Python-based implementation of the classic Tic-Tac-Toe game. I
 ## How to Run
 
 * Make sure you have Python 3.7.x or Python 3.8.x installed, if not, click [here](https://www.python.org/downloads/) to install!
-* Clone this into your Desktop: `git clone "https://github.com/tusharnankani/GamesBuiltUsingPython"`
+* Clone this into your Desktop: `git clone "https://github.com/Ishika63/Tic-Tac-Toe-Game.git"`
 * Open Command Line or Terminal
 * Change directory to a respective game: `cd "Desktop\Tic-Tac-Toe-AI"`
 * Run <tic-tac-toe-AI.py>: `python tic-tac-toe-AI.py`
