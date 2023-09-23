@@ -35,7 +35,7 @@ This project is a Python-based implementation of the classic Tic-Tac-Toe game. I
 * And now have fun! ^_^
 
 
-## Screenshot
+## Screenshots
 
 ![1](https://github.com/Ishika63/Tic-Tac-Toe-Game/assets/80192358/9f1ba03f-2fa9-4160-a5a2-8e57537f2f4b)
 
